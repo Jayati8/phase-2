@@ -1,0 +1,61 @@
+body {
+  background-color: #F2F5C8;
+}
+
+h1{
+  font-family: 'Rowdies', cursive;
+  color: black;
+  text-align: center;
+  font-size: 200px;
+  padding-left: 250px;
+}
+h2{
+  text-align: center;
+  font-size: 50px;
+}
+h3 {
+  text-align: center;
+  color: #FFFDA2;
+}
+p{
+  width: 30%;
+  margin: auto;
+font-size: 25px;
+font-family: 'Zilla Slab Highlight', cursive;
+}
+#title {
+  background-color: #2F455C;
+  padding-top: 15%;
+  padding-bottom: 25%;
+}
+
+.house {
+  width: 20%;
+  position: absolute;
+  top: 155px;
+  left: 280px;
+}
+#front-view{
+  padding: 10% 10% 5% 10%;
+}
+.carousel-item {
+  /* width: auto;
+  height:650px; */
+}
+#features{
+  text-align: center;
+}
+.i{
+  width: 20%;
+  border-radius: 50%;
+}
+.row{
+  margin-left: 15%;
+}
+.btn{
+  font-size: 50px;
+}
+
+#footer {
+  text-align: center;
+}
